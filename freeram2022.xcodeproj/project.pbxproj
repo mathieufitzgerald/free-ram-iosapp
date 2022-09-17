@@ -1,0 +1,762 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5212942728D6196000FF5784 /* Down.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5212942628D6196000FF5784 /* Down.storyboard */; };
+		5212942928D619DE00FF5784 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5212942828D619DE00FF5784 /* ViewController4.swift */; };
+		5212943328D6200400FF5784 /* defaultsound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5212943228D6200400FF5784 /* defaultsound.mp3 */; };
+		52EAA91A28D6746700414217 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52EAA91928D6746700414217 /* ViewController.swift */; };
+		52F7E99928D500A700F37C3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E99828D500A700F37C3B /* AppDelegate.swift */; };
+		52F7E99B28D500A700F37C3B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E99A28D500A700F37C3B /* SceneDelegate.swift */; };
+		52F7E9A028D500A700F37C3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F7E99E28D500A700F37C3B /* Main.storyboard */; };
+		52F7E9A228D500A800F37C3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52F7E9A128D500A800F37C3B /* Assets.xcassets */; };
+		52F7E9A528D500A800F37C3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F7E9A328D500A800F37C3B /* LaunchScreen.storyboard */; };
+		52F7E9B028D500A800F37C3B /* freeram2022Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E9AF28D500A800F37C3B /* freeram2022Tests.swift */; };
+		52F7E9BA28D500A800F37C3B /* freeram2022UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E9B928D500A800F37C3B /* freeram2022UITests.swift */; };
+		52F7E9BC28D500A800F37C3B /* freeram2022UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E9BB28D500A800F37C3B /* freeram2022UITestsLaunchTests.swift */; };
+		52F7E9CF28D506A000F37C3B /* tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E9CE28D506A000F37C3B /* tests.swift */; };
+		52F7E9D628D506C300F37C3B /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E9D528D506C300F37C3B /* test.swift */; };
+		52F7E9D828D5CE7900F37C3B /* ProcessingRAM.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F7E9D728D5CE7900F37C3B /* ProcessingRAM.storyboard */; };
+		52F7E9DC28D5DD6600F37C3B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E9DB28D5DD6600F37C3B /* ViewController2.swift */; };
+		52F7E9DE28D60EF300F37C3B /* BrokenPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52F7E9DD28D60EF300F37C3B /* BrokenPhone.storyboard */; };
+		52F7E9E028D60F0200F37C3B /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52F7E9DF28D60F0200F37C3B /* ViewController3.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		52F7E9AC28D500A800F37C3B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 52F7E98D28D500A700F37C3B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 52F7E99428D500A700F37C3B;
+			remoteInfo = freeram2022;
+		};
+		52F7E9B628D500A800F37C3B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 52F7E98D28D500A700F37C3B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 52F7E99428D500A700F37C3B;
+			remoteInfo = freeram2022;
+		};
+		52F7E9D028D506A000F37C3B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 52F7E98D28D500A700F37C3B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 52F7E99428D500A700F37C3B;
+			remoteInfo = freeram2022;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5212942628D6196000FF5784 /* Down.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Down.storyboard; sourceTree = "<group>"; };
+		5212942828D619DE00FF5784 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		5212943228D6200400FF5784 /* defaultsound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = defaultsound.mp3; path = ../../defaultsound.mp3; sourceTree = "<group>"; };
+		52EAA91928D6746700414217 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		52F7E99528D500A700F37C3B /* freeram2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = freeram2022.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52F7E99828D500A700F37C3B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		52F7E99A28D500A700F37C3B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		52F7E99F28D500A700F37C3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		52F7E9A128D500A800F37C3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		52F7E9A428D500A800F37C3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		52F7E9A628D500A800F37C3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52F7E9AB28D500A800F37C3B /* freeram2022Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = freeram2022Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		52F7E9AF28D500A800F37C3B /* freeram2022Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = freeram2022Tests.swift; sourceTree = "<group>"; };
+		52F7E9B528D500A800F37C3B /* freeram2022UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = freeram2022UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		52F7E9B928D500A800F37C3B /* freeram2022UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = freeram2022UITests.swift; sourceTree = "<group>"; };
+		52F7E9BB28D500A800F37C3B /* freeram2022UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = freeram2022UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		52F7E9CC28D506A000F37C3B /* tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		52F7E9CE28D506A000F37C3B /* tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tests.swift; sourceTree = "<group>"; };
+		52F7E9D528D506C300F37C3B /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
+		52F7E9D728D5CE7900F37C3B /* ProcessingRAM.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ProcessingRAM.storyboard; sourceTree = "<group>"; };
+		52F7E9DB28D5DD6600F37C3B /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		52F7E9DD28D60EF300F37C3B /* BrokenPhone.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = BrokenPhone.storyboard; sourceTree = "<group>"; };
+		52F7E9DF28D60F0200F37C3B /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52F7E99228D500A700F37C3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9A828D500A800F37C3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9B228D500A800F37C3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9C928D506A000F37C3B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5212942F28D61CE100FF5784 /* ssounds */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ssounds;
+			sourceTree = "<group>";
+		};
+		52F7E98C28D500A700F37C3B = {
+			isa = PBXGroup;
+			children = (
+				5212942F28D61CE100FF5784 /* ssounds */,
+				52F7E99728D500A700F37C3B /* freeram2022 */,
+				52F7E9AE28D500A800F37C3B /* freeram2022Tests */,
+				52F7E9B828D500A800F37C3B /* freeram2022UITests */,
+				52F7E9CD28D506A000F37C3B /* tests */,
+				52F7E99628D500A700F37C3B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52F7E99628D500A700F37C3B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52F7E99528D500A700F37C3B /* freeram2022.app */,
+				52F7E9AB28D500A800F37C3B /* freeram2022Tests.xctest */,
+				52F7E9B528D500A800F37C3B /* freeram2022UITests.xctest */,
+				52F7E9CC28D506A000F37C3B /* tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52F7E99728D500A700F37C3B /* freeram2022 */ = {
+			isa = PBXGroup;
+			children = (
+				52F7E99828D500A700F37C3B /* AppDelegate.swift */,
+				52F7E99A28D500A700F37C3B /* SceneDelegate.swift */,
+				52EAA91928D6746700414217 /* ViewController.swift */,
+				52F7E9DB28D5DD6600F37C3B /* ViewController2.swift */,
+				52F7E9DF28D60F0200F37C3B /* ViewController3.swift */,
+				5212942828D619DE00FF5784 /* ViewController4.swift */,
+				52F7E99E28D500A700F37C3B /* Main.storyboard */,
+				52F7E9D728D5CE7900F37C3B /* ProcessingRAM.storyboard */,
+				52F7E9DD28D60EF300F37C3B /* BrokenPhone.storyboard */,
+				5212942628D6196000FF5784 /* Down.storyboard */,
+				52F7E9D528D506C300F37C3B /* test.swift */,
+				52F7E9A128D500A800F37C3B /* Assets.xcassets */,
+				52F7E9A328D500A800F37C3B /* LaunchScreen.storyboard */,
+				52F7E9A628D500A800F37C3B /* Info.plist */,
+				5212943228D6200400FF5784 /* defaultsound.mp3 */,
+			);
+			path = freeram2022;
+			sourceTree = "<group>";
+		};
+		52F7E9AE28D500A800F37C3B /* freeram2022Tests */ = {
+			isa = PBXGroup;
+			children = (
+				52F7E9AF28D500A800F37C3B /* freeram2022Tests.swift */,
+			);
+			path = freeram2022Tests;
+			sourceTree = "<group>";
+		};
+		52F7E9B828D500A800F37C3B /* freeram2022UITests */ = {
+			isa = PBXGroup;
+			children = (
+				52F7E9B928D500A800F37C3B /* freeram2022UITests.swift */,
+				52F7E9BB28D500A800F37C3B /* freeram2022UITestsLaunchTests.swift */,
+			);
+			path = freeram2022UITests;
+			sourceTree = "<group>";
+		};
+		52F7E9CD28D506A000F37C3B /* tests */ = {
+			isa = PBXGroup;
+			children = (
+				52F7E9CE28D506A000F37C3B /* tests.swift */,
+			);
+			path = tests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52F7E99428D500A700F37C3B /* freeram2022 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52F7E9BF28D500A800F37C3B /* Build configuration list for PBXNativeTarget "freeram2022" */;
+			buildPhases = (
+				52F7E99128D500A700F37C3B /* Sources */,
+				52F7E99228D500A700F37C3B /* Frameworks */,
+				52F7E99328D500A700F37C3B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = freeram2022;
+			productName = freeram2022;
+			productReference = 52F7E99528D500A700F37C3B /* freeram2022.app */;
+			productType = "com.apple.product-type.application";
+		};
+		52F7E9AA28D500A800F37C3B /* freeram2022Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52F7E9C228D500A800F37C3B /* Build configuration list for PBXNativeTarget "freeram2022Tests" */;
+			buildPhases = (
+				52F7E9A728D500A800F37C3B /* Sources */,
+				52F7E9A828D500A800F37C3B /* Frameworks */,
+				52F7E9A928D500A800F37C3B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				52F7E9AD28D500A800F37C3B /* PBXTargetDependency */,
+			);
+			name = freeram2022Tests;
+			productName = freeram2022Tests;
+			productReference = 52F7E9AB28D500A800F37C3B /* freeram2022Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		52F7E9B428D500A800F37C3B /* freeram2022UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52F7E9C528D500A800F37C3B /* Build configuration list for PBXNativeTarget "freeram2022UITests" */;
+			buildPhases = (
+				52F7E9B128D500A800F37C3B /* Sources */,
+				52F7E9B228D500A800F37C3B /* Frameworks */,
+				52F7E9B328D500A800F37C3B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				52F7E9B728D500A800F37C3B /* PBXTargetDependency */,
+			);
+			name = freeram2022UITests;
+			productName = freeram2022UITests;
+			productReference = 52F7E9B528D500A800F37C3B /* freeram2022UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		52F7E9CB28D506A000F37C3B /* tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52F7E9D228D506A000F37C3B /* Build configuration list for PBXNativeTarget "tests" */;
+			buildPhases = (
+				52F7E9C828D506A000F37C3B /* Sources */,
+				52F7E9C928D506A000F37C3B /* Frameworks */,
+				52F7E9CA28D506A000F37C3B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				52F7E9D128D506A000F37C3B /* PBXTargetDependency */,
+			);
+			name = tests;
+			productName = tests;
+			productReference = 52F7E9CC28D506A000F37C3B /* tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52F7E98D28D500A700F37C3B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					52F7E99428D500A700F37C3B = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					52F7E9AA28D500A800F37C3B = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 52F7E99428D500A700F37C3B;
+					};
+					52F7E9B428D500A800F37C3B = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 52F7E99428D500A700F37C3B;
+					};
+					52F7E9CB28D506A000F37C3B = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = 52F7E99428D500A700F37C3B;
+					};
+				};
+			};
+			buildConfigurationList = 52F7E99028D500A700F37C3B /* Build configuration list for PBXProject "freeram2022" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 52F7E98C28D500A700F37C3B;
+			productRefGroup = 52F7E99628D500A700F37C3B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52F7E99428D500A700F37C3B /* freeram2022 */,
+				52F7E9AA28D500A800F37C3B /* freeram2022Tests */,
+				52F7E9B428D500A800F37C3B /* freeram2022UITests */,
+				52F7E9CB28D506A000F37C3B /* tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52F7E99328D500A700F37C3B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5212943328D6200400FF5784 /* defaultsound.mp3 in Resources */,
+				52F7E9A528D500A800F37C3B /* LaunchScreen.storyboard in Resources */,
+				52F7E9DE28D60EF300F37C3B /* BrokenPhone.storyboard in Resources */,
+				52F7E9A228D500A800F37C3B /* Assets.xcassets in Resources */,
+				52F7E9D828D5CE7900F37C3B /* ProcessingRAM.storyboard in Resources */,
+				5212942728D6196000FF5784 /* Down.storyboard in Resources */,
+				52F7E9A028D500A700F37C3B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9A928D500A800F37C3B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9B328D500A800F37C3B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9CA28D506A000F37C3B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52F7E99128D500A700F37C3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52F7E9E028D60F0200F37C3B /* ViewController3.swift in Sources */,
+				5212942928D619DE00FF5784 /* ViewController4.swift in Sources */,
+				52F7E9DC28D5DD6600F37C3B /* ViewController2.swift in Sources */,
+				52EAA91A28D6746700414217 /* ViewController.swift in Sources */,
+				52F7E99928D500A700F37C3B /* AppDelegate.swift in Sources */,
+				52F7E99B28D500A700F37C3B /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9A728D500A800F37C3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52F7E9B028D500A800F37C3B /* freeram2022Tests.swift in Sources */,
+				52F7E9D628D506C300F37C3B /* test.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9B128D500A800F37C3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52F7E9BA28D500A800F37C3B /* freeram2022UITests.swift in Sources */,
+				52F7E9BC28D500A800F37C3B /* freeram2022UITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52F7E9C828D506A000F37C3B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52F7E9CF28D506A000F37C3B /* tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		52F7E9AD28D500A800F37C3B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 52F7E99428D500A700F37C3B /* freeram2022 */;
+			targetProxy = 52F7E9AC28D500A800F37C3B /* PBXContainerItemProxy */;
+		};
+		52F7E9B728D500A800F37C3B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 52F7E99428D500A700F37C3B /* freeram2022 */;
+			targetProxy = 52F7E9B628D500A800F37C3B /* PBXContainerItemProxy */;
+		};
+		52F7E9D128D506A000F37C3B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 52F7E99428D500A700F37C3B /* freeram2022 */;
+			targetProxy = 52F7E9D028D506A000F37C3B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		52F7E99E28D500A700F37C3B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52F7E99F28D500A700F37C3B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		52F7E9A328D500A800F37C3B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52F7E9A428D500A800F37C3B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52F7E9BD28D500A800F37C3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		52F7E9BE28D500A800F37C3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52F7E9C028D500A800F37C3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = freeram2022/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.freeram;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		52F7E9C128D500A800F37C3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = freeram2022/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.freeram;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		52F7E9C328D500A800F37C3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.freeram2022Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/freeram2022.app/freeram2022";
+			};
+			name = Debug;
+		};
+		52F7E9C428D500A800F37C3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.freeram2022Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/freeram2022.app/freeram2022";
+			};
+			name = Release;
+		};
+		52F7E9C628D500A800F37C3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.freeram2022UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = freeram2022;
+			};
+			name = Debug;
+		};
+		52F7E9C728D500A800F37C3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.freeram2022UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = freeram2022;
+			};
+			name = Release;
+		};
+		52F7E9D328D506A000F37C3B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/freeram2022.app/freeram2022";
+			};
+			name = Debug;
+		};
+		52F7E9D428D506A000F37C3B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Z7JDZNCKVT;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mathieufitzgerald.tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/freeram2022.app/freeram2022";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52F7E99028D500A700F37C3B /* Build configuration list for PBXProject "freeram2022" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52F7E9BD28D500A800F37C3B /* Debug */,
+				52F7E9BE28D500A800F37C3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52F7E9BF28D500A800F37C3B /* Build configuration list for PBXNativeTarget "freeram2022" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52F7E9C028D500A800F37C3B /* Debug */,
+				52F7E9C128D500A800F37C3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52F7E9C228D500A800F37C3B /* Build configuration list for PBXNativeTarget "freeram2022Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52F7E9C328D500A800F37C3B /* Debug */,
+				52F7E9C428D500A800F37C3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52F7E9C528D500A800F37C3B /* Build configuration list for PBXNativeTarget "freeram2022UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52F7E9C628D500A800F37C3B /* Debug */,
+				52F7E9C728D500A800F37C3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52F7E9D228D506A000F37C3B /* Build configuration list for PBXNativeTarget "tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52F7E9D328D506A000F37C3B /* Debug */,
+				52F7E9D428D506A000F37C3B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52F7E98D28D500A700F37C3B /* Project object */;
+}
